@@ -1,0 +1,59 @@
+.navbar {
+    background-color: aqua;
+}
+
+body {
+    background-color: rgb(234, 236, 236);
+    
+}
+
+.card-header {
+    background-color: white;
+    border-bottom: white;
+    font-size: 200%;
+}
+
+.line
+{
+    display:inline-block;
+    border-bottom:2px #a8a7a5 solid;
+    margin-left: auto;
+    margin-right: auto;
+    width:100%;
+    margin-bottom: 10px;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.form-header {
+    font-size: 200%;
+    color: rgb(0, 119, 255);
+}
+.navbar .btn {
+    color: white;
+}
+
+.navbar-brand {
+    font-size: x-large;
+}
+
+.card-title {
+    background-color: #7dd4ee; 
+    text-align: center; 
+    color: white;
+}
+
+.card-body {
+    background-color: #7dd4ee; 
+}
+
+.card img {
+    height: 300px;
+}
