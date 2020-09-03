@@ -2,15 +2,13 @@
 
 README:
 
-Went through bootstrap thoroughly looking at all the different components until I found the ones I wanted for my website. 
+updated styling using bootstrap 
 
-I used two different types of cards for my About Me page and my portfolio page. 
+New Projects comming soon to add to the portfolio.html
 
 My Portfolio page put cards inside specific rows and columns, while the about me page is one large card in the middle of the page. 
 
 The Contact page uses a Form to prompt user for specific info.
-
-I made sure the navbar was consistent throughout all html files.
 
 ## Technologies
 
@@ -23,11 +21,11 @@ I made sure the navbar was consistent throughout all html files.
 
 Website:
 
-https://asegre18.github.io/homework2/
+https://asegre18.github.io/updated-portfolio/
 
 Github Repo:
 
-https://github.com/asegre18/homework2
+https://github.com/asegre18/updated-portfolio/
 
 ## Screenshots
 
